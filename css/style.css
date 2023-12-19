@@ -1,0 +1,18 @@
+body {
+    font-family: Georgia, serif;
+}
+
+.tekst {
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.tekst p {
+   text-align: left;
+   line-height: 1.6;
+}
+
