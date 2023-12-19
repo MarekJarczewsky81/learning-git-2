@@ -1,10 +1,12 @@
 body {
     font-family: Georgia, serif;
+    background: blue;
 }
 
 .tekst {
     max-width: 600px;
     margin: auto;
+    color: red;  
 }
 
 h1 {
