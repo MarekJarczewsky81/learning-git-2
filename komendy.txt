@@ -1,0 +1,3 @@
+
+
+npm exec html-validate *.html
